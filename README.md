@@ -22,6 +22,8 @@ I welcome collaborations at the intersection of machine learning, aging biology,
 
 The [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) traces my line through my KAUST advisor, David Keyes, back to [Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313) in 15 steps and [Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975) in 18. Its records continue on to [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps and [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) in 31.
 
+Closer to home, my academic grandfather, [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540), introduced [Anderson acceleration](https://doi.org/10.1145/321296.321305) in 1965. Six decades later, David Keyes and I used his method to [accelerate AI on GPUs](https://arxiv.org/abs/2410.19460).
+
 <details>
 <summary>Follow the full line, record by record</summary>
 
