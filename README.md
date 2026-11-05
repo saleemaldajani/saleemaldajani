@@ -1,41 +1,54 @@
 # Saleem A. Al Dajani
 
-I am an MIT PhD researcher building machine-learning systems to measure and model human aging from molecular, physiological, and behavioral data. My work spans multimodal biological-age models, proteomics and single-cell analysis, wearable sensing, computational biomedicine, and human-centered generative AI.
+I'm an MIT PhD researcher building machine-learning systems to measure and model human aging from molecular, physiological, and behavioral data. I'm especially interested in models that connect biological mechanism with measurements people can collect continuously, such as wearables, voice, and movement.
 
-I have worked across MIT, Harvard Medical School–affiliated research groups, the Broad Institute, CERN, NASA JPL/Caltech, and industry research. I am especially interested in models that connect biological mechanism with measurements people can collect continuously—wearables, voice, movement, and other non-invasive signals.
+I've worked across MIT, Harvard Medical School–affiliated research groups, the Broad Institute, CERN, NASA JPL/Caltech, and industry research, and I hold an SM in Nuclear Science and Engineering from MIT.
 
-[Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-4116-6616) · [GitHub](https://github.com/saleemaldajani)
-
-## Biological aging and health AI
-
-- 🧬 [All of Us](https://github.com/saleemaldajani/allofus) — multimodal aging and health modeling with proteomic, transcriptomic, wearable, and clinical data from the All of Us Research Program.
-- ⏳ [eAge](https://github.com/saleemaldajani/eAge) — computational approaches to estimating biological age.
-- 🙂 [FaceTTD](https://github.com/saleemaldajani/facettd) — facial-image modeling for age-related and health-oriented prediction.
-- 🔬 [DeepSeq](https://github.com/saleemaldajani/deepseq) — an end-to-end single-cell RNA-sequencing pipeline for PBMCs, including filtering, Leiden clustering, local-LLM cell-type annotation, UMAP visualization, reports, and an interactive Dash application. Associated with our paper in *Machine Learning: Health*.
-
-## Generative and creative AI
-
-- 🎤 [The Rap Mixer](https://github.com/saleemaldajani/rap-mixer) — a context-aware system for rap analysis, revision, freestyle, and live battle interaction. It exposes its scoring assumptions, preserves artist control, and includes privacy-aware local and bring-your-own-key workflows.
-- 🎙️ [Rap Theory Hackathon](https://github.com/saleemaldajani/rap-theory-hackathon) — materials and experiments connecting rap, computation, and participatory creative-AI design.
-
-## Interactive science and computational design
-
-- 🧲 [Levitron Lab](https://github.com/saleemaldajani/levitron-lab) — an interactive environment for exploring magnetic levitation.
-- 🏜️ [Mohr Planes of Sand](https://github.com/saleemaldajani/mohrplanesofsand) — an interactive mechanics visualization centered on Mohr-circle and granular-material concepts.
-- 📐 [Gadget Assembly](https://github.com/saleemaldajani/gadgetassembly) — an interactive geometric-assembly and shuriken design generator inspired by computational geometry.
-- ✨ [Scatter](https://github.com/saleemaldajani/scatter) — an interactive browser-based scientific visualization experiment.
-
-## Earlier scientific computing
-
-- ⚛️ [CERN](https://github.com/saleemaldajani/cern) — code and analyses from particle-physics work at CERN.
-- 📊 [Data](https://github.com/saleemaldajani/data) — early notebooks and data-science experiments.
-
-## Research themes
-
-- Multimodal and longitudinal models of biological aging
-- Proteomic, transcriptomic, wearable, voice, and biomechanical biomarkers
-- Interpretable machine learning for health and science
-- Generative AI for scientific analysis and creative agency
-- Interactive tools for communicating mathematical and physical ideas
+**Get in touch:** [Email](mailto:sdajani@mit.edu) · [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saleemaldajani) · [X / Twitter](https://x.com/saleemaldajani) · [Instagram](https://www.instagram.com/saleemaldajani/) · [ORCID](https://orcid.org/0000-0003-4116-6616)
 
 I welcome collaborations at the intersection of machine learning, aging biology, digital health, and scientific tool-building.
+
+# Projects
+
+▶️ marks a live demo you can open in your browser, and 📄 marks an associated paper.
+
+## Aging and Health AI
+
+* 🔬 [DeepSeq](https://github.com/saleemaldajani/deepseq) labels cell types in single-cell RNA-sequencing data using LLMs, in a pipeline covering filtering, clustering, UMAP visualization, reports, and an interactive Dash app
+  * 📄 [*Machine Learning: Health*, 2026](https://doi.org/10.1088/3049-477x/ae8550)
+* 🙂 [FaceTTD](https://github.com/saleemaldajani/facettd) explores whether longitudinal facial images can predict time-to-death, with experiments on IMDb and out-of-distribution evaluation on Wikipedia data
+
+In progress, with no public code yet: multimodal aging and health models using data from the All of Us Research Program, and computational estimates of biological age.
+
+## Creative AI
+
+* 🎤 [The Rap Mixer](https://github.com/saleemaldajani/rap-mixer) shows how an artist's performance choices interact with a chosen cultural context, producing several transparent scores instead of one universal rating
+  * Supports recorded analysis, a live four-bar stream, and constrained revision suggestions, with free local or bring-your-own-key modes
+
+## Interactive Science
+
+* 🧲 [The Levitron Lab](https://github.com/saleemaldajani/levitron-lab) is a set of browser-based simulations of magnetic levitation, organized around the ways real devices escape Earnshaw's theorem
+  * ▶️ [Try it live](https://levitron-lab-production.up.railway.app/)
+* 🏜️ [Mohr Planes of Sand](https://github.com/saleemaldajani/mohrplanesofsand) connects the Mohr circle, the Mohr–Coulomb failure envelope, and the angle of repose of a sand dune
+  * ▶️ [Try it live](https://mohrplanesofsand-production.up.railway.app/)
+* 📐 [Gadget Assembly](https://github.com/saleemaldajani/gadgetassembly) generates spiky ring (shuriken) geometries from interactive sliders, inspired by computational geometry
+* ✨ [Scatter](https://github.com/saleemaldajani/scatter) is a tiny click-to-chase ball game where the balls bolt away from your clicks
+  * ▶️ [Play it live](https://scatter-production.up.railway.app/)
+
+## Materials Science
+
+* ⚛️ [elastopya](https://github.com/saleemaldajani/elastopya) holds the code, inputs, data, and figures for a manuscript in preparation on first-principles evidence of stiffening during spinodal decomposition in FeCr
+  * 📄 Builds on our [*Acta Materialia* paper](https://doi.org/10.1016/j.actamat.2022.118552)
+
+## Early Notebooks
+
+* 📊 [Data](https://github.com/saleemaldajani/data) collects my 2017 notebooks on web scraping IMDb in Python and R and simulating random draws in R
+
+# Selected Papers
+
+* **S. A. Al Dajani**, A. Sanchez, J. R. Williams. [DeepSeq: High-throughput single-cell RNA sequencing data labeling via web search-augmented agentic generative AI foundation models](https://doi.org/10.1088/3049-477x/ae8550). *Machine Learning: Health*, 2026.
+* **S. A. Al Dajani**, F. Laquai. [Machine learning nominal max oxygen consumption from wearable reflective pulse oximetry with density functional theory](https://doi.org/10.1101/2024.07.15.603651). Preprint, 2024.
+* **S. A. Al Dajani** et al. [Detecting thermally-induced spinodal decomposition with picosecond ultrasonics in cast austenitic stainless steels](https://doi.org/10.1016/j.actamat.2022.118552). *Acta Materialia*, 2023.
+* A. P. C. Wylie, K. B. Woller, **S. A. Al Dajani**, et al. [Thermal diffusivity in ion-irradiated single-crystal iron, chromium, vanadium, and tungsten measured using transient grating spectroscopy](https://doi.org/10.1063/5.0089048). *Journal of Applied Physics*, 2022.
+
+See [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) for the full list.
