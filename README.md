@@ -15,8 +15,9 @@ I welcome collaborations at the intersection of machine learning, aging biology,
 ## Aging and Health AI
 
 * 🔬 [DeepSeq](https://github.com/saleemaldajani/deepseq) labels cell types in single-cell RNA-sequencing data using LLMs, in a pipeline covering filtering, clustering, UMAP visualization, reports, and an interactive Dash app
-  * 📄 [*Machine Learning: Health*, 2026](https://doi.org/10.1088/3049-477x/ae8550)
+  * 📄 [*Machine Learning: Health*, 2026](https://doi.org/10.1088/3049-477x/ae8550) · [ICML FM4LS Workshop, 2025](https://openreview.net/forum?id=zNjXOZxEYB)
 * 🙂 [FaceTTD](https://github.com/saleemaldajani/facettd) explores whether longitudinal facial images can predict time-to-death, with experiments on IMDb and out-of-distribution evaluation on Wikipedia data
+  * 📄 [NeurIPS TS4H and Imageomics Workshops, 2025](https://openreview.net/forum?id=dS7H27vww8)
 
 In progress, with no public code yet: multimodal aging and health models using data from the All of Us Research Program, and computational estimates of biological age.
 
@@ -32,6 +33,7 @@ In progress, with no public code yet: multimodal aging and health models using d
 * 🏜️ [Mohr Planes of Sand](https://github.com/saleemaldajani/mohrplanesofsand) connects the Mohr circle, the Mohr–Coulomb failure envelope, and the angle of repose of a sand dune
   * ▶️ [Try it live](https://mohrplanesofsand-production.up.railway.app/)
 * 📐 [Gadget Assembly](https://github.com/saleemaldajani/gadgetassembly) generates spiky ring (shuriken) geometries from interactive sliders, inspired by computational geometry
+  * 📄 [NeurIPS Creative AI Track, 2025](https://openreview.net/forum?id=5uxw5CIVtC)
 * ✨ [Scatter](https://github.com/saleemaldajani/scatter) is a tiny click-to-chase ball game where the balls bolt away from your clicks
   * ▶️ [Play it live](https://scatter-production.up.railway.app/)
 
@@ -46,8 +48,8 @@ In progress, with no public code yet: multimodal aging and health models using d
 
 # Selected Papers
 
-* **S. A. Al Dajani**, A. Sanchez, J. R. Williams. [DeepSeq: High-throughput single-cell RNA sequencing data labeling via web search-augmented agentic generative AI foundation models](https://doi.org/10.1088/3049-477x/ae8550). *Machine Learning: Health*, 2026.
-* **S. A. Al Dajani**, F. Laquai. [Machine learning nominal max oxygen consumption from wearable reflective pulse oximetry with density functional theory](https://doi.org/10.1101/2024.07.15.603651). Preprint, 2024.
+* **S. A. Al Dajani**, A. Sanchez, J. R. Williams. [DeepSeq: High-throughput single-cell RNA sequencing data labeling via web search-augmented agentic generative AI foundation models](https://doi.org/10.1088/3049-477x/ae8550). *Machine Learning: Health*, 2026. Earlier version at the ICML FM4LS Workshop, 2025 ([OpenReview](https://openreview.net/forum?id=zNjXOZxEYB)).
+* **S. A. Al Dajani**, F. Laquai. [Machine learning nominal max oxygen consumption from wearable reflective pulse oximetry with density functional theory](https://doi.org/10.1101/2024.07.15.603651). *ICML ML4LMS Workshop*, 2024 ([OpenReview](https://openreview.net/forum?id=vbovwWp8iS)).
 * **S. A. Al Dajani** et al. [Detecting thermally-induced spinodal decomposition with picosecond ultrasonics in cast austenitic stainless steels](https://doi.org/10.1016/j.actamat.2022.118552). *Acta Materialia*, 2023.
 * A. P. C. Wylie, K. B. Woller, **S. A. Al Dajani**, et al. [Thermal diffusivity in ion-irradiated single-crystal iron, chromium, vanadium, and tungsten measured using transient grating spectroscopy](https://doi.org/10.1063/5.0089048). *Journal of Applied Physics*, 2022.
 
