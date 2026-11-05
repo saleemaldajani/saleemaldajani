@@ -4,61 +4,11 @@ I'm an MIT PhD researcher building machine-learning systems to measure and model
 
 I also hold a PhD in Applied Physics from KAUST, and an SM in Nuclear Science and Engineering and SBs in Physics and Chemical-Biological Engineering from MIT. My path has run through quantum physics and reactor materials, Harvard Medical School–affiliated research groups, single-cell sequencing at the Broad Institute, particle physics at CERN, flash-memory testing for Europa Clipper at NASA JPL/Caltech, Crew Dragon avionics and launch engineering at SpaceX, and consulting at McKinsey.
 
+My [academic lineage](#academic-lineage) runs through my KAUST advisor, David Keyes, to Donald G. M. Anderson, who introduced Anderson acceleration, and on to [Isaac Newton and Galileo Galilei](#academic-lineage). Its [deeper roots](#deeper-roots-erasmus-and-omar-khayyam) reach [Desiderius Erasmus and Omar Khayyam](#deeper-roots-erasmus-and-omar-khayyam).
+
 **Get in touch:** [Email](mailto:sdajani@mit.edu) · [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saleemaldajani) · [X / Twitter](https://x.com/saleemaldajani) · [Instagram](https://www.instagram.com/saleemaldajani/) · [ORCID](https://orcid.org/0000-0003-4116-6616) · [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587)
 
 I welcome collaborations at the intersection of machine learning, aging biology, digital health, and scientific tool-building.
-
-# Academic Lineage
-
-<p align="center">
-  <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/academic-lineage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/academic-lineage-light.svg">
-      <img alt="On the Shoulders of Giants: a star chart of my academic lineage, with a golden thread running from Galileo Galilei and Isaac Newton through 18 generations of teachers and students to me." src="assets/academic-lineage-light.svg" width="100%">
-    </picture>
-  </a>
-</p>
-
-The [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) traces my line through my KAUST advisor, David Keyes, back to [Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313) in 15 steps and [Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975) in 18.
-
-Closer to home, my academic grandfather, [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540), introduced [Anderson acceleration](https://doi.org/10.1145/321296.321305) in 1965. Six decades later, David Keyes and I used his method to [accelerate AI on GPUs](https://arxiv.org/abs/2410.19460).
-
-<details>
-<summary>Follow the full line, record by record</summary>
-
-<br>
-
-[Saleem Al Dajani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) → [David E. Keyes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=39446) → [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540) → [Max Krook](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=66420) → [Arthur S. Eddington](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18250) → [Alfred N. Whitehead](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=78732) → [Edward J. Routh](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=101929) → [William Hopkins](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=42016) → [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) → [Thomas Jones](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102036) → [Thomas Postlethwaite](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133301) → [Stephen Whisson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133367) → [Walter Taylor](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133368) → [Robert Smith](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103068) → [Roger Cotes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103067) → **[Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313)** → [Isaac Barrow](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=67643) → [Vincenzo Viviani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133302) → **[Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975)**
-
-</details>
-
-## Deeper Roots: Erasmus and Omar Khayyam
-
-<p align="center">
-  <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/academic-roots-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/academic-roots-light.svg">
-      <img alt="Deeper Roots: a star chart of two older academic streams, from Omar Khayyam and from Desiderius Erasmus, meeting at Arnold Senguerdius in Leiden and flowing through Adam Sedgwick to me." src="assets/academic-roots-light.svg" width="100%">
-    </picture>
-  </a>
-</p>
-
-My line also branches at [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) into older streams that meet at [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) in Leiden. One reaches [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps. The other runs through Paris, Padua, Constantinople, and the Maragheh Observatory to [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) (<bdi>عمر&nbsp;الخيام</bdi>) in 31.
-
-<details>
-<summary>Follow both streams, record by record</summary>
-
-<br>
-
-**From Sedgwick to the meeting point:** [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) → [John Dawson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102037) → [Henry Bracken](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=129422) → [Herman Boerhaave](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=101856) → [Wolferd Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115155) → [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471)
-
-**To Erasmus:** [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) → [Franck P. Burgersdijk](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115008) → [Gilbert Jacchaeus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=114992) → [Jacobus Arminius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126489) → [Rudolph Snellius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125181) → [Valentine Naibod](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125160) → [Erasmus Reinhold](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126736) → [Jakob Milich](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126667) → **[Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938)**
-
-**To Khayyam:** [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) → [Antonius Thysius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115395) → [Theodore Beza](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131821) → [Melchior Wolmar](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131905) → [Jacques Lefèvre d'Étaples](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131398) → [Johannes Argyropoulos](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131444) → [Basilios Bessarion](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131561) → [Georgios Gemistos Plethon](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131575) → [Demetrios Kydones](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134780) → [Nilos Kabasilas](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=146365) → [Gregory Palamas](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=176844) → [Theodore Metochites](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=184631) → [Manuel Bryennios](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=184632) → [Gregory Chioniadis](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=201288) → [Shams al-Dīn al-Bukhārī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=204293) → [Naṣīr al-Dīn al-Ṭūsī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=217509) → [Kamāl al-Dīn Ibn Yūnus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=223724) → [Sharaf al-Dīn al-Marwazī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287466) → **[Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739)**
-
-</details>
 
 # Projects
 
@@ -115,3 +65,55 @@ In progress, with no public code yet: multimodal aging and health models using d
 * A. P. C. Wylie, K. B. Woller, **S. A. Al Dajani**, et al. [Thermal diffusivity in ion-irradiated single-crystal iron, chromium, vanadium, and tungsten measured using transient grating spectroscopy](https://doi.org/10.1063/5.0089048). *Journal of Applied Physics*, 2022.
 
 See [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) for the full list.
+
+# Academic Lineage
+
+<p align="center">
+  <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/academic-lineage-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/academic-lineage-light.svg">
+      <img alt="On the Shoulders of Giants: a star chart of my academic lineage, with a golden thread running from Galileo Galilei and Isaac Newton through 18 generations of teachers and students to me." src="assets/academic-lineage-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+The [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) traces my line through my KAUST advisor, David Keyes, back to [Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313) in 15 steps and [Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975) in 18.
+
+Closer to home, my academic grandfather, [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540), introduced [Anderson acceleration](https://doi.org/10.1145/321296.321305) in 1965. Six decades later, David Keyes and I used his method to [accelerate AI on GPUs](https://arxiv.org/abs/2410.19460).
+
+<details>
+<summary>Follow the full line, record by record</summary>
+
+<br>
+
+[Saleem Al Dajani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) → [David E. Keyes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=39446) → [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540) → [Max Krook](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=66420) → [Arthur S. Eddington](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18250) → [Alfred N. Whitehead](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=78732) → [Edward J. Routh](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=101929) → [William Hopkins](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=42016) → [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) → [Thomas Jones](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102036) → [Thomas Postlethwaite](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133301) → [Stephen Whisson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133367) → [Walter Taylor](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133368) → [Robert Smith](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103068) → [Roger Cotes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103067) → **[Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313)** → [Isaac Barrow](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=67643) → [Vincenzo Viviani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133302) → **[Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975)**
+
+</details>
+
+## Deeper Roots: Erasmus and Omar Khayyam
+
+<p align="center">
+  <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/academic-roots-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/academic-roots-light.svg">
+      <img alt="Deeper Roots: a star chart of two older academic streams, from Omar Khayyam and from Desiderius Erasmus, meeting at Arnold Senguerdius in Leiden and flowing through Adam Sedgwick to me." src="assets/academic-roots-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+My line also branches at [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) into older streams that meet at [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) in Leiden. One reaches [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps. The other runs through Paris, Padua, Constantinople, and the Maragheh Observatory to [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) (<bdi>عمر&nbsp;الخيام</bdi>) in 31.
+
+<details>
+<summary>Follow both streams, record by record</summary>
+
+<br>
+
+**From Sedgwick to the meeting point:** [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) → [John Dawson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102037) → [Henry Bracken](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=129422) → [Herman Boerhaave](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=101856) → [Wolferd Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115155) → [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471)
+
+**To Erasmus:** [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) → [Franck P. Burgersdijk](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115008) → [Gilbert Jacchaeus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=114992) → [Jacobus Arminius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126489) → [Rudolph Snellius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125181) → [Valentine Naibod](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125160) → [Erasmus Reinhold](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126736) → [Jakob Milich](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=126667) → **[Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938)**
+
+**To Khayyam:** [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) → [Antonius Thysius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115395) → [Theodore Beza](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131821) → [Melchior Wolmar](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131905) → [Jacques Lefèvre d'Étaples](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131398) → [Johannes Argyropoulos](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131444) → [Basilios Bessarion](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131561) → [Georgios Gemistos Plethon](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=131575) → [Demetrios Kydones](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134780) → [Nilos Kabasilas](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=146365) → [Gregory Palamas](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=176844) → [Theodore Metochites](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=184631) → [Manuel Bryennios](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=184632) → [Gregory Chioniadis](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=201288) → [Shams al-Dīn al-Bukhārī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=204293) → [Naṣīr al-Dīn al-Ṭūsī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=217509) → [Kamāl al-Dīn Ibn Yūnus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=223724) → [Sharaf al-Dīn al-Marwazī](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=287466) → **[Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739)**
+
+</details>
