@@ -45,7 +45,7 @@ Closer to home, my academic grandfather, [Donald G. M. Anderson](https://www.gen
   </a>
 </p>
 
-My line also branches at [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) into older streams that meet at [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) in Leiden. One reaches [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps. The other runs through Paris, Padua, Constantinople, and the Maragheh Observatory to [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) (عمر الخيام) in 31.
+My line also branches at [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) into older streams that meet at [Arnold Senguerdius](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=115471) in Leiden. One reaches [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps. The other runs through Paris, Padua, Constantinople, and the Maragheh Observatory to [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) (<bdi>عمر&nbsp;الخيام</bdi>) in 31.
 
 <details>
 <summary>Follow both streams, record by record</summary>
