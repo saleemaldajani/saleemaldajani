@@ -4,7 +4,7 @@ I'm an MIT PhD researcher building machine-learning systems to measure and model
 
 I also hold a PhD in Applied Physics from KAUST, and an SM in Nuclear Science and Engineering and SBs in Physics and Chemical-Biological Engineering from MIT. My path has run through quantum physics and reactor materials, Harvard Medical School–affiliated research groups, single-cell sequencing at the Broad Institute, particle physics at CERN, flash-memory testing for Europa Clipper at NASA JPL/Caltech, Crew Dragon avionics and launch engineering at SpaceX, and consulting at McKinsey.
 
-My [academic lineage](#academic-lineage) runs through my KAUST advisor, David Keyes, to Donald G. M. Anderson, who introduced Anderson acceleration, and on to [Isaac Newton and Galileo Galilei](#academic-lineage). Its [deeper roots](#deeper-roots-erasmus-and-omar-khayyam) reach [Desiderius Erasmus and Omar Khayyam](#deeper-roots-erasmus-and-omar-khayyam).
+My [academic lineage](#user-content-academic-lineage) runs through my KAUST advisor, David Keyes, to Donald G. M. Anderson, who introduced Anderson acceleration, and on to [Isaac Newton and Galileo Galilei](#user-content-academic-lineage). Its [deeper roots](#user-content-deeper-roots-erasmus-and-omar-khayyam) reach [Desiderius Erasmus and Omar Khayyam](#user-content-deeper-roots-erasmus-and-omar-khayyam).
 
 **Get in touch:** [Email](mailto:sdajani@mit.edu) · [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saleemaldajani) · [X / Twitter](https://x.com/saleemaldajani) · [Instagram](https://www.instagram.com/saleemaldajani/) · [ORCID](https://orcid.org/0000-0003-4116-6616) · [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587)
 
