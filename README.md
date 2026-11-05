@@ -4,9 +4,32 @@ I'm an MIT PhD researcher building machine-learning systems to measure and model
 
 I also hold a PhD in Applied Physics from KAUST, and an SM in Nuclear Science and Engineering and SBs in Physics and Chemical-Biological Engineering from MIT. My path has run through quantum physics and reactor materials, Harvard Medical School–affiliated research groups, single-cell sequencing at the Broad Institute, particle physics at CERN, flash-memory testing for Europa Clipper at NASA JPL/Caltech, Crew Dragon avionics and launch engineering at SpaceX, and consulting at McKinsey.
 
-**Get in touch:** [Email](mailto:sdajani@mit.edu) · [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saleemaldajani) · [X / Twitter](https://x.com/saleemaldajani) · [Instagram](https://www.instagram.com/saleemaldajani/) · [ORCID](https://orcid.org/0000-0003-4116-6616)
+**Get in touch:** [Email](mailto:sdajani@mit.edu) · [Google Scholar](https://scholar.google.com/citations?user=lsjHsT8AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/saleemaldajani) · [X / Twitter](https://x.com/saleemaldajani) · [Instagram](https://www.instagram.com/saleemaldajani/) · [ORCID](https://orcid.org/0000-0003-4116-6616) · [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587)
 
 I welcome collaborations at the intersection of machine learning, aging biology, digital health, and scientific tool-building.
+
+# Academic Lineage
+
+<p align="center">
+  <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/academic-lineage-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/academic-lineage-light.svg">
+      <img alt="On the Shoulders of Giants: a star chart of my academic lineage, with a golden thread running from Galileo Galilei and Isaac Newton through 18 generations of teachers and students to me." src="assets/academic-lineage-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+The [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) traces my line through my KAUST advisor, David Keyes, back to [Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313) in 15 steps and [Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975) in 18. Its records continue on to [Desiderius Erasmus](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=125938) in 21 steps and [Omar Khayyam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=295739) in 31.
+
+<details>
+<summary>Follow the full line, record by record</summary>
+
+<br>
+
+[Saleem Al Dajani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=323587) → [David E. Keyes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=39446) → [Donald G. M. Anderson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=28540) → [Max Krook](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=66420) → [Arthur S. Eddington](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=18250) → [Alfred N. Whitehead](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=78732) → [Edward J. Routh](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=101929) → [William Hopkins](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=42016) → [Adam Sedgwick](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102043) → [Thomas Jones](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=102036) → [Thomas Postlethwaite](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133301) → [Stephen Whisson](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133367) → [Walter Taylor](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133368) → [Robert Smith](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103068) → [Roger Cotes](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=103067) → **[Isaac Newton](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=74313)** → [Isaac Barrow](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=67643) → [Vincenzo Viviani](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=133302) → **[Galileo Galilei](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=134975)**
+
+</details>
 
 # Projects
 
