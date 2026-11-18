@@ -41,6 +41,8 @@ In progress, with no public code yet: multimodal aging and health models using d
 * 🎤 [The Rap Mixer](https://github.com/saleemaldajani/rap-mixer) shows how an artist's performance choices interact with a chosen cultural context, producing several transparent scores instead of one universal rating
   * Supports recorded analysis, a live four-bar stream, and constrained revision suggestions, with free local or bring-your-own-key modes
   * ▶️ [Try it live](https://huggingface.co/spaces/sdajani/rap-mixer)
+* 📐 [Gadget Assembly](https://github.com/saleemaldajani/gadgetassembly) generates spiky ring (shuriken) geometries from interactive sliders, inspired by computational geometry
+  * 📄 [NeurIPS Creative AI Track, 2025](https://openreview.net/forum?id=5uxw5CIVtC)
 
 ## Interactive Science
 
@@ -48,8 +50,6 @@ In progress, with no public code yet: multimodal aging and health models using d
   * ▶️ [Try it live](https://levitron-lab-production.up.railway.app/)
 * 🏜️ [Mohr Planes of Sand](https://github.com/saleemaldajani/mohrplanesofsand) connects the Mohr circle, the Mohr–Coulomb failure envelope, and the angle of repose of a sand dune
   * ▶️ [Try it live](https://mohrplanesofsand-production.up.railway.app/)
-* 📐 [Gadget Assembly](https://github.com/saleemaldajani/gadgetassembly) generates spiky ring (shuriken) geometries from interactive sliders, inspired by computational geometry
-  * 📄 [NeurIPS Creative AI Track, 2025](https://openreview.net/forum?id=5uxw5CIVtC)
 * ✨ [Scatter](https://github.com/saleemaldajani/scatter) is a tiny click-to-chase ball game where the balls bolt away from your clicks
   * ▶️ [Play it live](https://scatter-production.up.railway.app/)
 
