@@ -12,7 +12,7 @@ I welcome collaborations at the intersection of machine learning, aging biology,
 
 # Projects
 
-▶️ marks a live demo you can open in your browser, and 📄 marks an associated paper.
+▶️ marks a live demo you can open in your browser, 📄 marks an associated paper, and 🍴 marks a fork that builds on another project.
 
 ## Aging and Health AI
 
@@ -24,13 +24,23 @@ I welcome collaborations at the intersection of machine learning, aging biology,
   * 📄 [*Machine Learning: Health*, 2026](https://doi.org/10.1088/3049-477x/ae8550) · [ICML FM4LS Workshop, 2025](https://openreview.net/forum?id=zNjXOZxEYB)
 * 🙂 [FaceTTD](https://github.com/saleemaldajani/facettd) explores whether longitudinal facial images can predict time-to-death, with experiments on IMDb and out-of-distribution evaluation on Wikipedia data
   * 📄 [NeurIPS TS4H and Imageomics Workshops, 2025](https://openreview.net/forum?id=dS7H27vww8)
+* 🎙️ eAge estimates age from a short recorded or uploaded video clip and reports the estimate from each model in the VoiceAge model zoo
+  * ▶️ [Try the password-protected demo](https://huggingface.co/spaces/sdajani/eage-public-demo), for research use only
 
 In progress, with no public code yet: multimodal aging and health models using data from the All of Us Research Program.
+
+## AI for Scientific Discovery
+
+* 🐝 [Co-Scientist Swarm](https://github.com/saleemaldajani/co-scientist) 🍴 is my fork of LLNL's [open AI co-scientist](https://github.com/llnl/open-ai-co-scientist). Language models now propose hypotheses faster than anyone can check them, so the fork targets ranking and verification: deciding which hypotheses are worth testing, and checking that each names real data and a test that can actually be run
+  * Swarm mode splits a research goal into directions for parallel agents, merges near-duplicate hypotheses, and ranks the pool by structured debate between model judges, updating Elo ratings after every debate
+  * Attached data files, 32 database and literature tools, and a simulation check over the Model Context Protocol tie each hypothesis to evidence, and every ranked idea exports with its review so it can be tested outside the app
+  * ▶️ [Try it live](https://huggingface.co/spaces/sdajani/co-scientist-public-demo)
 
 ## Creative AI
 
 * 🎤 [The Rap Mixer](https://github.com/saleemaldajani/rap-mixer) shows how an artist's performance choices interact with a chosen cultural context, producing several transparent scores instead of one universal rating
   * Supports recorded analysis, a live four-bar stream, and constrained revision suggestions, with free local or bring-your-own-key modes
+  * ▶️ [Try it live](https://huggingface.co/spaces/sdajani/rap-mixer)
 
 ## Interactive Science
 
