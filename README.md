@@ -12,7 +12,7 @@ I welcome collaborations at the intersection of machine learning, aging biology,
 
 # Projects
 
-▶️ marks a live demo you can open in your browser, 📄 marks an associated paper, and 🍴 marks a fork that builds on another project.
+▶️ marks a live demo you can open in your browser, and 📄 marks an associated paper.
 
 ## Aging and Health AI
 
@@ -31,7 +31,7 @@ In progress, with no public code yet: multimodal aging and health models using d
 
 ## AI for Scientific Discovery
 
-* 🐝 [Co-Scientist Swarm](https://github.com/saleemaldajani/co-scientist) 🍴 is my fork of LLNL's [open AI co-scientist](https://github.com/llnl/open-ai-co-scientist). Language models now propose hypotheses faster than anyone can check them, so the fork targets ranking and verification: deciding which hypotheses are worth testing, and checking that each names real data and a test that can actually be run
+* 🐝 [Co-Scientist Swarm](https://github.com/saleemaldajani/co-scientist) generates, ranks, and verifies research hypotheses. Language models now propose hypotheses faster than anyone can check them, so the bottleneck has moved to ranking and verification: deciding which hypotheses are worth testing, and checking that each names real data and a test that can actually be run
   * Swarm mode splits a research goal into directions for parallel agents, merges near-duplicate hypotheses, and ranks the pool by structured debate between model judges, updating Elo ratings after every debate
   * Attached data files, 32 database and literature tools, and a simulation check over the Model Context Protocol tie each hypothesis to evidence, and every ranked idea exports with its review so it can be tested outside the app
   * ▶️ [Try it live](https://huggingface.co/spaces/sdajani/co-scientist-public-demo)
